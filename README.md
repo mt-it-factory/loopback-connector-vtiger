@@ -28,7 +28,8 @@ A complete example datasource.json:
   "connector": "vtiger",
   "crud": false,
   "operations": {},
-  "loggerPath" : "server/app/logger.js"
+  "loggerPath" : "server/app/logger.js",
+  "countSessionsToInit": 1
 }
 ```
 
