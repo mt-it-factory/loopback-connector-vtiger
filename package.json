@@ -1,6 +1,6 @@
 {
-  "_from": "loopback-connector-vtiger@^@1.1.10",
-  "_id": "loopback-connector-vtiger@1.1.10",
+  "_from": "loopback-connector-vtiger@^@1.1.11",
+  "_id": "loopback-connector-vtiger@1.1.11",
   "_inBundle": false,
   "_integrity": "sha512-gLT1AqSiVS64bi48ahrkARtoRDxYPLz1L+3bPFKvheHoEmymyni/ar/GJUvGzHH7KvrBRxyIK/BWnql2+UM8Zw==",
   "_location": "/loopback-connector-vtiger",
