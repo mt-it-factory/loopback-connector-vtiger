@@ -1,27 +1,28 @@
 {
-  "_from": "loopback-connector-vtiger@^@1.4.0",
+  "_from": "loopback-connector-vtiger",
   "_id": "loopback-connector-vtiger@1.4.0",
   "_inBundle": false,
-  "_integrity": "sha512-gLT1AqSiVS64bi48ahrkARtoRDxYPLz1L+3bPFKvheHoEmymyni/ar/GJUvGzHH7KvrBRxyIK/BWnql2+UM8Zw==",
+  "_integrity": "sha512-f/HCw5cluyjCrZBEDgvwvTv7HxxcWc3/DimDpCJe0ECw9NLCWhkbkaPujmAgZW+cjWWlGAxSXrPI9pC1+vUlRw==",
   "_location": "/loopback-connector-vtiger",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "tag",
     "registry": true,
-    "raw": "loopback-connector-vtiger@^1.4.0",
+    "raw": "loopback-connector-vtiger",
     "name": "loopback-connector-vtiger",
     "escapedName": "loopback-connector-vtiger",
-    "rawSpec": "1.4.0",
+    "rawSpec": "",
     "saveSpec": null,
-    "fetchSpec": "^1.4.0"
+    "fetchSpec": "latest"
   },
   "_requiredBy": [
+    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/loopback-connector-vtiger/-/loopback-connector-vtiger-1.4.0.tgz",
-  "_shasum": "f6ddef7cd804fd464511d2a060f39f0f902426eb",
-  "_spec": "loopback-connector-vtiger@^1.4.0",
-  "_where": "C:\\xampp\\htdocs\\SALT-STRONGLOOP-API",
+  "_shasum": "04431207a78146ef0210b0b7b16a9ee83876334f",
+  "_spec": "loopback-connector-vtiger",
+  "_where": "C:\\xampp\\htdocs\\test",
   "author": {
     "name": "IT-Factory"
   },
@@ -33,8 +34,7 @@
     "async": "^2.0.1",
     "crypto": "0.0.3",
     "object.assign": "^4.0.4",
-    "request": "^2.81.0",
-    "redis": "^2.7.1"
+    "request": "^2.81.0"
   },
   "deprecated": false,
   "description": "Loopback connector to vtiger tunnel API",
